@@ -1,6 +1,6 @@
 [project]
 name = "pyexpose"
-version = "0.1.0"
+version = "0.1.1"
 description = "pyexpose allows you to pyexpose simplifies the process of running Serveo.net tunnels by providing Python-based async context managers. With pyexpose, you can effortlessly set up and run your server from anywhere and at any time, offering a convenient plug-and-play solution for seamless deployment."
 authors = [
     {name = "Harishankar Kumar", email = "hari01584@gmail.com"},
