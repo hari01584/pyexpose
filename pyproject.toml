@@ -1,7 +1,7 @@
 [project]
 name = "pyexpose"
 version = "0.1.2"
-description = "Python library for creating SSH-based tunnels to expose local services, supporting commond providers like serveo.net and localhost.run. Supports modern Python syntax, asyncio, and context managers for ease of use"
+description = "Python library for creating SSH-based tunnels to expose local services, supporting providers such as serveo.net and localhost.run. It embraces modern Python syntax, asyncio, and context managers for a straightforward and user-friendly experience."
 authors = [
     {name = "Harishankar Kumar", email = "hari01584@gmail.com"},
 ]
