@@ -6,7 +6,7 @@ authors = [
     {name = "Harishankar Kumar", email = "hari01584@gmail.com"},
 ]
 dependencies = [
-    "asyncssh @ git+https://github.com/ronf/asyncssh.git@v2.14.2",
+    "asyncssh>=2.14.2",
     "sphinx>=7.1.2",
     "sphinx-rtd-theme>=2.0.0",
     "rinohtype>=0.5.4",
